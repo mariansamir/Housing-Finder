@@ -23,42 +23,6 @@ Built using **HTML, CSS, and JavaScript**.
 
 ---
 
-## 📁 Project Structure
-/project-folder
-│── index.html
-│── style.css
-│── script.js
-│── images/
-│ ├── property_1.jpg
-│ ├── property_2.jpg
-│ └── property_3.jpg
-
-
----
-
-## 💡 How It Works
-
-1. Property data is stored inside a JavaScript array.
-2. JavaScript dynamically generates property cards.
-3. A search input filters properties in real time.
-4. CSS Grid handles layout and responsiveness.
-
----
-
-## 🔍 Search Feature
-
-You can search properties by:
-- Title (e.g. "Villa")
-- Location (e.g. "New York")
-
----
-
-## 📸 Preview
-
-(Add a screenshot of your project here)
-
----
-
 ## 📌 Future Improvements
 
 - Add property details page
